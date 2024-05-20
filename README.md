@@ -1,16 +1,46 @@
-### Hi there 👋
+# Olá, eu sou a Rayssa Athayde 👋
 
-<!--
-**rayssathayde/rayssathayde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! 
 
-Here are some ideas to get you started:
+------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### SOBRE MIM
+
+🌱: Bióloga/Professora
+🖥️: Estudante na área de dados
+📚: Estou aprendendo agora modelos de Machine Learning 
+💬 Pronomes: Ela/dela
+
+-------------------------------------------------------------------------------------------------
+
+## 📫 Entre em contato!
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/rayssa-athayde-162232246/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:athayde.rm@gmail.com)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aqui estão alguns dos meus projetos principais:
+
+## 📌 Projetos em Destaque
+
+### [Análise e diagnóstico de Dengue e Chikungunya](https://github.com/rayssathayde/Dengue_chikungunya)
+
+Análise de pacientes diagnosticados com dengue ou chikungunya e pacientes que tiveram diagnóstico negativo. Os dados são do Sistema de Informação de Agravos de Notificação (SINAN) e do Dados Recife, um portal de dados abertos da cidade do Recife.
+Foram criados dois modelos de Machine Learning para identificar e tentar classificar os pacientes de acordo com sintomas. 
+
+As análises foram feitas em Python, no Jupyter notebook. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### [Análise de notas](https://github.com/rayssathayde/projeto_analise_notas)
+
+Após aplicar provas, é essencial que o(a) professor(a) faça análises, colete dados (como estatísticas gerais da turma) e os use.
+Pode-se entender o desempenho geral da turma e identificar áreas de melhoria. A média da turma fornece uma visão geral do nível de compreensão do conteúdo, enquanto a identificação dos alunos que estão acima ou abaixo dessa média permite uma intervenção direcionada. Essa análise também pode revelar padrões de dificuldade em determinados tópicos, orientando ajustes no currículo e nas estratégias de ensino para melhor atender às necessidades dos alunos.
+
+As análises foram feitas em Python, no Jupyter notebook. 
+
+
+
+
+
