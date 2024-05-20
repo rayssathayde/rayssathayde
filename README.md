@@ -6,12 +6,9 @@ Bem-vindo ao meu perfil do GitHub!
 
 #### SOBRE MIM
 
-🌱: Bióloga/Professora
-
-🖥️: Estudante na área de dados
-
-📚: Estou aprendendo agora modelos de Machine Learning
-
+🌱: Bióloga/Professora<br>
+🖥️: Estudante na área de dados<br>
+📚: Estou aprendendo agora modelos de Machine Learning<br>
 💬 Pronomes: Ela/dela
 
 -------------------------------------------------------------------------------------------------
@@ -41,7 +38,7 @@ As análises foram feitas em Python, no Jupyter notebook.
 Após aplicar provas, é essencial que o(a) professor(a) faça análises, colete dados (como estatísticas gerais da turma) e os use.
 Pode-se entender o desempenho geral da turma e identificar áreas de melhoria. A média da turma fornece uma visão geral do nível de compreensão do conteúdo, enquanto a identificação dos alunos que estão acima ou abaixo dessa média permite uma intervenção direcionada. Essa análise também pode revelar padrões de dificuldade em determinados tópicos, orientando ajustes no currículo e nas estratégias de ensino para melhor atender às necessidades dos alunos.
 
-As análises foram feitas em Python, no Jupyter notebook.
+As análises foram feitas em Python, no Jupyter notebook.<br>
 Foi utilizado o Streamlit para disponibilizar a aplicação: acesse o link: [Análise de notas](https://estatisticas-notas.streamlit.app/)
 
 
