@@ -36,7 +36,7 @@ As análises foram feitas em Python, no Jupyter notebook.
 ### [Análise de notas](https://github.com/rayssathayde/projeto_analise_notas)
 
 Após aplicar provas, é essencial que o(a) professor(a) faça análises, colete dados (como estatísticas gerais da turma) e os use.
-Pode-se entender o desempenho geral da turma e identificar áreas de melhoria. A média da turma fornece uma visão geral do nível de compreensão do conteúdo, enquanto a identificação dos alunos que estão acima ou abaixo dessa média permite uma intervenção direcionada. Essa análise também pode revelar padrões de dificuldade em determinados tópicos, orientando ajustes no currículo e nas estratégias de ensino para melhor atender às necessidades dos alunos.
+Esses dados podem ajudar no entendimento do desempenho geral da turma e a identificar áreas de melhoria. A média da turma fornece uma visão geral do nível de compreensão do conteúdo, enquanto a identificação dos alunos que estão acima ou abaixo dessa média permite uma intervenção direcionada. Essa análise também pode revelar padrões de dificuldade em determinados tópicos, orientando ajustes no currículo e nas estratégias de ensino para melhor atender às necessidades dos alunos.
 
 As análises foram feitas em Python, no Jupyter notebook.<br>
 Foi utilizado o Streamlit para disponibilizar a aplicação. 
