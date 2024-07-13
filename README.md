@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub!
 
 🌱: Bióloga/Professora<br>
 🖥️: Estudante na área de dados<br>
-📚: Estou aprendendo agora modelos de Machine Learning<br>
+📚: Estou aprendendo agora ferramentas de Engenharia de dados<br>
 💬 Pronomes: Ela/dela
 
 -------------------------------------------------------------------------------------------------
