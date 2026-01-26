@@ -7,8 +7,7 @@ Bem-vindo ao meu perfil do GitHub!
 #### SOBRE MIM
 
 🌱: Bióloga/Professora<br>
-🖥️: Estudante na área de dados<br>
-📚: Estou aprendendo agora ferramentas de Engenharia de dados<br>
+🖥️: Estudante de Ciência da Computação<br>
 💬 Pronomes: Ela/dela
 
 -------------------------------------------------------------------------------------------------
